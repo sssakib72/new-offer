@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&family=Open+Sans:ital,wght@0,300..800;1,300..800&family=Work+Sans:ital,wght@0,100..900;1,100..900&display=swap');
+
+/* poster modification */
+
+.poster{
+    background-image: url(../images/Banner\ Image.png);
+    background-position: cover;
+    width: 1320px;
+    height: 600px;
+    margin: 2% 15%;
+
+}
+
+.poster-container{
+    color: #ebdddd;
+    text-align: center;
+    font-family: Merriweather;
+    padding: 150px 100px 50px  100px;
+    font-size: xx-large;
+    border-radius: 16px;
+    background: linear-gradient(180.00deg, rgb(7, 2, 17),rgba(7, 2, 17, 0) 100%);
+}
+
+.poster-title{
+    font-size: 32px;
+    font-family: Merriweather;
+}
+
+.poster-para{
+    font-size: 50px;
+}
+
+/* discount */
+
+
+.content-container{
+    margin: 200px 399px 50px 399px;
+    text-align: center;
+    
+}
+.discount{
+    font-size: 50px;
+    color: red;
+}
