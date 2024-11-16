@@ -42,3 +42,27 @@
     font-size: 50px;
     color: red;
 }
+
+
+/* entry */
+
+.entry-card{
+    background-image: linear-gradient(90.00deg, rgb(7, 2, 17),rgba(7, 2, 17, 0) 100%), url(../images/Vectorrr.png);
+    width: 1320px;
+    height: 600px;
+    margin: 2% 15%;
+    display: flex;
+}
+
+.invitation{
+    padding: 50px 200px 50px 100px;
+}
+
+.head{
+    color: #ebdddd;
+    font-family: Merriweather;
+    font-size: 64px;
+    font-weight: 900;
+    line-height: 88px;
+    letter-spacing: 11%;
+}
