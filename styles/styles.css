@@ -52,6 +52,7 @@
     height: 600px;
     margin: 2% 15%;
     display: flex;
+    justify-content: space-between;
 }
 
 .invitation{
@@ -83,4 +84,9 @@
     border: none;
     cursor: pointer;
     font-size: 20px;
+}
+
+.entry-card-container{
+    margin-right: 150px;
+    padding-top: 60px;
 }
