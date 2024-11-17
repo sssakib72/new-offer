@@ -129,7 +129,8 @@ span{
     align-items: center;
     width: 1320px;
     height: 463px;
-    margin: 10px 280px;
+    margin: 10% 15%;
+    
 }
 
 .photo{
@@ -194,7 +195,8 @@ span{
     width: 1320px;
     height: 986.07px;
     text-align: center;
-    margin: 0px 280px;
+    margin: 10% 15%;
+    
 }
 
 .gift-box{
