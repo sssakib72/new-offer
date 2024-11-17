@@ -115,4 +115,6 @@ span{
     background: rgb(255, 0, 0);
     padding: 16px 32px 16px 32px;
     color: white;
+    font-family: Merriweather;
+    cursor: pointer;
 }
