@@ -53,6 +53,7 @@
     margin: 2% 15%;
     display: flex;
     justify-content: space-between;
+    border-radius: 16px;
 }
 
 .invitation{
@@ -89,4 +90,29 @@
 .entry-card-container{
     margin-right: 150px;
     padding-top: 60px;
+}
+
+/* location */
+.location-info{
+    width: 1320px;
+    height: 482px;
+    margin: 10% 15% 15% 15%;
+    background: linear-gradient(180.00deg, rgba(255, 0, 0, 0.1),rgba(255, 0, 0, 0) 100%);
+    padding-top: 100px;
+    text-align: center;
+}
+
+.infos{
+    font-size: 32px;
+    
+}
+span{
+    color: red;
+}
+.btnt{
+    border: none;
+    border-radius: 8px;
+    background: rgb(255, 0, 0);
+    padding: 16px 32px 16px 32px;
+    color: white;
 }
