@@ -9,7 +9,8 @@
     background-position: cover;
     width: 1320px;
     height: 600px;
-    margin: 2% 15%;
+    margin: 0 auto;
+    margin-bottom: 100px;
 
 }
 
@@ -36,8 +37,9 @@
 
 
 .content-container{
-    margin: 200px 399px 50px 399px;
+    margin: 0 auto;
     text-align: center;
+    margin-bottom: 100px;
     
 }
 .discount{
@@ -52,7 +54,8 @@
     background-image: linear-gradient(90.00deg, rgb(7, 2, 17),rgba(7, 2, 17, 0) 100%), url(../images/Vectorrr.png);
     width: 1320px;
     height: 600px;
-    margin: 2% 15%;
+    margin: 0 auto;
+    margin-bottom: 100px;
     display: flex;
     justify-content: space-between;
     border-radius: 16px;
@@ -98,7 +101,8 @@
 .location-info{
     width: 1320px;
     height: 482px;
-    margin: 10% 15% 15% 15%;
+    margin: 0 auto;
+    margin-bottom: 100px;
     background: linear-gradient(180.00deg, rgba(255, 0, 0, 0.1),rgba(255, 0, 0, 0) 100%);
     padding-top: 100px;
     text-align: center;
@@ -129,7 +133,8 @@ span{
     align-items: center;
     width: 1320px;
     height: 463px;
-    margin: 10% 15%;
+    margin: 0 auto;
+    margin-bottom: 100px;
     
 }
 
@@ -195,7 +200,8 @@ span{
     width: 1320px;
     height: 986.07px;
     text-align: center;
-    margin: 10% 15%;
+    margin: 0 auto;
+    margin-bottom: 100px;
     
 }
 
@@ -249,4 +255,13 @@ span{
 }
 .imagethree{
     margin-left: 1000px;
+}
+
+/* product-items */
+
+.product-bar{
+    width: 1320px;
+    height: 1163px;
+    margin: 0 auto;
+    margin-bottom: 100px;
 }
