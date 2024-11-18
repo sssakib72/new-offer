@@ -302,3 +302,73 @@ span{
     line-height: 32px;
     letter-spacing: 0%;
 }
+
+/* mail-info */
+
+.sub-letter{
+    width: 1320px;
+    height: 616px;
+    margin: 0 auto;
+    border-radius: 16px;
+    background: rgba(255, 0, 0, 0.05);
+    margin-bottom: 100px;
+}
+
+.email-check{
+    width: 896px;
+    height: 336px;
+    margin: 0 auto;
+    text-align: center;
+    padding: 80px 200px;
+    
+}
+
+.mail-title{
+    color: rgb(7, 2, 17);
+    font-family: Merriweather;
+    font-size: 48px;
+    font-weight: 900;
+    line-height: 60px;
+    letter-spacing: 0%;
+    text-align: center;
+}
+
+.mail-para{
+    color: rgba(7, 2, 17, 0.6);
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 32px;
+    letter-spacing: 0%;
+    text-align: center;
+}
+
+.input-type{
+    display: flex;
+    justify-content: center;
+}
+
+.email-input{
+    padding: 20px ;
+    border-radius: 30px 0 0 30px;
+    border: none;
+    width: 300px;
+}
+
+.btn-email{
+    padding: 20px;
+    border-radius: 0 30px 30px 0;
+    border: none;
+    width: 150px;
+    background-color: red;
+    color: beige;
+}
+
+footer{
+    width: 100%;
+    height: 609px;;
+    background: rgb(7, 2, 17);
+}
+*{
+    margin: 0 auto;
+}
