@@ -372,3 +372,60 @@ footer{
 *{
     margin: 0 auto;
 }
+
+.footer{
+    color: aliceblue;
+    color: rgb(255, 255, 255);
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 40px;
+    letter-spacing: 0%;
+    }
+
+.inf{
+    width: 1600x;
+    height: 180px;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.logo{
+    text-align: center;
+    gap: 20px;
+}
+
+.ok{
+    margin-right: 20px;
+}
+
+.okay{
+    border: 1.5px dashed rgb(255, 255, 255);
+    vertical-align: sub;
+    margin-right: 5px;
+}
+
+.kay{
+    color: rgb(255, 255, 255);
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 29px;
+    letter-spacing: 0%;
+    border: none;
+    background: transparent;
+}
+
+.end{
+    display: flex;
+    justify-content: space-between;
+    width: 1920px;
+    margin: 0 auto;
+    margin-top: 200px;
+}
+
+#kay{
+    margin-left: 1200px;
+}
